@@ -1,4 +1,5 @@
 import sys
+import time
 
 def Knapsack(items, weight):
 
@@ -11,7 +12,7 @@ def Knapsack(items, weight):
         without_item = Knapsackinator(w_remaining, i_index+1)
         with_item[0] += items[i_index][1]
         with_item[1].append(items[i_index])
-        if with_item[0] >= without_item[0]:
+        if with_item[0] >= without_item[0] and w_remaining-items[i_index][2] >= 0:
             return with_item
         else:
             return without_item
@@ -26,7 +27,17 @@ def main():
         i[1] = float(i[1])
         i[2] = float(i[2])
         items.append(i)
-    print("Results: ", Knapsack(items, w))
+    print(items)
+    start = time.time()
+    t_val, items_n_sack = Knapsack(items, w)
+    end = time.time()
+    print("Results:")
+    print("    Total Value: %0.2f" % t_val)
+    print("    Items:")
+    for i in items_n_sack:
+        print("        ", i[0], i[1], i[2])
+    print("")
+    print("Time Taken: %fs" % (end - start))
 
 if __name__ == "__main__":
     main()
