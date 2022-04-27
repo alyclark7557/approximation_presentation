@@ -27,7 +27,6 @@ def main():
         i[1] = float(i[1])
         i[2] = float(i[2])
         items.append(i)
-    print(items)
     start = time.time()
     t_val, items_n_sack = Knapsack(items, w)
     end = time.time()
