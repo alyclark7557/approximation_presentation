@@ -1,0 +1,725 @@
+
+Test with 3 inputs:
+
+Results:
+    Total Value: 30.20
+    Items:
+         HTXRX 25.4 1.8
+         GIPRI 4.1 2.1
+         EOFMM 0.7 0.5
+
+Time Taken: 0.000010s
+
+Test with 4 inputs:
+
+Results:
+    Total Value: 120.90
+    Items:
+         WSCLQ 28.3 4.0
+         KSSAO 34.4 0.3
+         JXDZN 35.6 0.5
+         RXQXR 22.6 0.9
+
+Time Taken: 0.000015s
+
+Test with 5 inputs:
+
+Results:
+    Total Value: 140.00
+    Items:
+         EHEKD 48.2 2.6
+         MROCV 13.5 1.5
+         BVBSO 39.3 2.6
+         WTFRE 20.3 2.3
+         OARUL 18.7 2.6
+
+Time Taken: 0.000024s
+
+Test with 6 inputs:
+
+Results:
+    Total Value: 177.90
+    Items:
+         PCGXD 46.9 4.0
+         CEKGD 2.3 3.7
+         MABEN 50.8 1.9
+         OZAPS 15.1 5.8
+         ZSREE 45.2 2.9
+         SDNQS 17.6 4.0
+
+Time Taken: 0.000042s
+
+Test with 7 inputs:
+
+Results:
+    Total Value: 343.00
+    Items:
+         LCBBY 40.4 3.7
+         FUMPZ 56.4 3.3
+         ADRES 57.4 2.4
+         HUDQM 67.0 2.3
+         ULLNH 61.5 5.8
+         KOJIQ 26.5 4.0
+         UMRYT 33.8 6.3
+
+Time Taken: 0.000079s
+
+Test with 8 inputs:
+
+Results:
+    Total Value: 414.10
+    Items:
+         BVPVU 62.6 4.3
+         BVBJT 65.9 5.8
+         KLZDX 30.4 5.8
+         NAAXV 29.4 4.8
+         PJHJT 78.0 6.5
+         QSTUW 9.1 3.7
+         WDWBB 60.2 1.3
+         PVHPT 78.5 5.0
+
+Time Taken: 0.000156s
+
+Test with 9 inputs:
+
+Results:
+    Total Value: 439.90
+    Items:
+         IHJNX 25.1 6.7
+         WZVDQ 57.2 3.4
+         SZOBT 66.5 8.1
+         HOOAM 42.2 0.5
+         KSHIT 75.6 0.1
+         VIHKJ 26.3 0.1
+         THVPU 89.0 5.4
+         HTYLS 38.4 0.1
+         EFNUW 19.6 4.5
+
+Time Taken: 0.000298s
+
+Test with 10 inputs:
+
+Results:
+    Total Value: 462.90
+    Items:
+         DNKVZ 39.8 5.2
+         XHJLH 25.2 5.1
+         SHPQF 67.6 9.4
+         PYQDQ 37.8 4.2
+         WASHC 13.3 8.7
+         BQXNH 72.7 0.7
+         YCSWN 86.1 8.1
+         SNEOF 98.2 0.7
+         QUDCW 2.4 0.5
+         FBWXW 19.8 8.2
+
+Time Taken: 0.000585s
+
+Test with 11 inputs:
+
+Results:
+    Total Value: 534.90
+    Items:
+         YHSJK 71.1 4.3
+         TEDKF 8.1 3.8
+         LRJRV 17.3 2.1
+         NIKLF 0.1 8.1
+         SQIRZ 101.5 4.3
+         XIFPZ 57.6 6.9
+         HVWHH 65.7 3.6
+         APBUU 86.8 9.0
+         MWDSW 16.4 7.5
+         IWMZU 21.2 0.3
+         PMYGQ 89.1 5.4
+
+Time Taken: 0.001188s
+
+Test with 12 inputs:
+
+Results:
+    Total Value: 733.80
+    Items:
+         IWFBY 20.8 2.8
+         VTBUB 88.5 10.8
+         ROLTW 24.8 3.5
+         EDPDT 81.7 9.5
+         PXWDX 65.8 2.0
+         QBIDS 50.2 0.4
+         UQHDF 102.8 2.5
+         FJAGL 62.4 2.3
+         WMMZO 108.3 4.6
+         LMITZ 83.2 6.4
+         HGFRA 12.0 5.3
+         LXSYN 33.3 6.2
+
+Time Taken: 0.002289s
+
+Test with 13 inputs:
+
+Results:
+    Total Value: 772.10
+    Items:
+         WOXGU 111.6 9.2
+         FFYTG 69.8 6.7
+         KWJHP 26.7 5.9
+         FDQIP 95.6 4.9
+         NUHKP 96.9 1.4
+         CUKKG 1.8 8.9
+         SICAK 86.7 5.0
+         NOOES 4.4 4.0
+         PNOYD 77.3 6.1
+         NGEGR 57.2 3.9
+         NCXLP 50.8 8.0
+         PSEWU 68.1 8.2
+         YNWZN 25.2 2.8
+
+Time Taken: 0.004584s
+
+Test with 14 inputs:
+
+Results:
+    Total Value: 938.40
+    Items:
+         QWMOS 30.8 1.7
+         RSZFL 128.6 11.7
+         RQWOA 74.8 11.6
+         QQQFH 31.5 5.4
+         KFOSN 72.2 3.7
+         ERJZI 34.8 5.4
+         XGUPR 95.7 3.9
+         WEUCA 121.2 8.6
+         DDYCE 17.3 12.9
+         RFQIE 90.5 11.5
+         JHXTM 59.2 11.2
+         JKQXW 74.4 10.7
+         SVUCY 27.6 5.4
+         THPPA 79.8 0.4
+
+Time Taken: 0.009205s
+
+Test with 15 inputs:
+
+Results:
+    Total Value: 1376.70
+    Items:
+         IPTQH 141.0 5.1
+         DPCDM 20.0 5.7
+         BOQGX 23.4 13.4
+         HLFTI 77.9 6.6
+         YNORN 58.4 13.6
+         KDGZB 140.3 10.5
+         HETHH 72.8 11.9
+         OXCBB 106.7 3.9
+         QPXMB 109.8 8.0
+         UUWBS 146.5 6.6
+         JTIBS 123.5 8.5
+         IIGTN 99.6 12.9
+         YWDIR 9.1 9.7
+         VIRTS 111.9 12.4
+         HORWO 135.8 1.1
+
+Time Taken: 0.018091s
+
+Test with 16 inputs:
+
+Results:
+    Total Value: 1436.50
+    Items:
+         REMNS 109.9 14.5
+         YDSEX 81.5 6.6
+         EGJXZ 96.4 7.1
+         AXVUO 29.6 10.1
+         SLHRM 151.1 10.4
+         RZUXH 29.6 10.7
+         WEAAO 29.1 4.8
+         IMLTE 62.4 15.8
+         YGYBE 156.5 1.8
+         QQZRA 95.8 11.9
+         CGCAP 118.7 2.0
+         BWMAE 75.2 11.1
+         JSMNX 103.3 9.9
+         OURMF 133.6 13.9
+         FAJBI 146.9 7.6
+         QJSSW 16.9 8.3
+
+Time Taken: 0.038352s
+
+Test with 17 inputs:
+
+Results:
+    Total Value: 1253.60
+    Items:
+         CYGFW 107.2 1.8
+         DSWTU 8.3 14.0
+         TLJFE 95.4 14.7
+         FOYUV 134.2 4.0
+         QFHOO 24.7 11.4
+         OHXHZ 126.7 2.5
+         WZASJ 48.3 12.3
+         GMTYG 23.0 6.0
+         IRWUK 163.6 2.6
+         HNTRR 140.6 3.1
+         PXBUL 16.4 0.3
+         THFUG 79.7 6.9
+         DLLAB 37.2 13.3
+         CTAPN 12.1 8.1
+         WQNHM 155.0 15.9
+         BGKKJ 43.6 12.6
+         MXANB 37.6 2.8
+
+Time Taken: 0.073121s
+
+Test with 18 inputs:
+
+Results:
+    Total Value: 1752.30
+    Items:
+         GNBSY 138.4 6.8
+         GIZPB 135.6 11.1
+         VXLJC 73.1 14.1
+         KQECA 54.2 14.8
+         OQUQH 35.9 1.6
+         FCGBZ 35.1 12.3
+         QEWUW 132.9 13.0
+         TWUKP 92.2 17.6
+         NLCUD 7.0 9.6
+         FAULN 167.4 2.3
+         XLIPW 145.0 16.6
+         IPLGF 138.9 10.8
+         QZUBW 177.9 17.4
+         ZFXVA 32.8 12.8
+         HZLIC 83.4 14.0
+         AGHHS 133.3 6.2
+         GFGRW 137.3 16.6
+         EJOFX 31.9 11.5
+
+Time Taken: 0.149048s
+
+Test with 19 inputs:
+
+Results:
+    Total Value: 1543.80
+    Items:
+         HCLKB 52.6 2.3
+         SQKUB 99.5 8.4
+         YAKYG 27.0 19.0
+         RQPBZ 60.7 9.2
+         KNOCX 94.4 5.0
+         ZAHKN 4.8 1.2
+         EQIMG 145.4 14.7
+         XRPRD 97.4 12.1
+         XSRAX 29.7 10.6
+         WAYWK 128.0 6.3
+         TVEYI 16.0 13.7
+         HXVWA 73.0 5.8
+         SCXDG 72.6 7.5
+         SUGOI 142.5 7.2
+         QKOAD 128.8 17.3
+         CLIVN 117.7 7.1
+         TKHYR 132.9 13.6
+         NGFIN 68.8 3.2
+         EWAJP 52.0 2.3
+
+Time Taken: 0.330898s
+
+Test with 20 inputs:
+
+Results:
+    Total Value: 2109.30
+    Items:
+         LCCLM 50.8 10.4
+         BFVZM 15.7 3.8
+         UWAJZ 176.7 1.6
+         IPNEC 182.6 7.0
+         WRGYK 31.1 1.2
+         GSPQI 77.6 19.2
+         PPYFF 17.1 9.8
+         TKJAC 192.9 3.5
+         OUBXA 56.7 2.5
+         FNYED 138.8 18.0
+         OXDOO 58.5 15.4
+         JQGIL 184.1 9.0
+         LOTOR 188.0 8.5
+         SKPLH 48.2 4.4
+         WTHNA 111.3 0.8
+         LBCWU 109.1 15.5
+         ZOTCL 19.0 6.4
+         VJAWT 100.4 2.8
+         XHRIT 163.7 2.2
+         TJXOP 187.0 15.9
+
+Time Taken: 0.627045s
+
+Test with 21 inputs:
+
+Results:
+    Total Value: 1860.10
+    Items:
+         LWIYX 58.8 7.9
+         UJKBA 189.9 14.2
+         IDOMY 59.0 4.0
+         DSVEC 84.7 17.8
+         SHBTJ 35.2 0.8
+         NVALK 65.2 8.7
+         DUAIS 43.6 7.7
+         RGNGV 1.8 19.2
+         THWDU 208.2 12.2
+         IJUYF 197.7 5.4
+         XYAQY 208.8 15.8
+         NWCCX 12.3 18.0
+         ABWDK 86.5 15.9
+         PDRRF 129.7 1.9
+         FJUHQ 112.0 11.4
+         IHEDI 49.7 14.4
+         RJYKF 115.9 9.4
+         GINXA 76.7 5.4
+         QXZDH 13.6 20.1
+         UZSQF 29.2 14.1
+         FQRWH 81.6 3.0
+
+Time Taken: 1.202040s
+
+Test with 22 inputs:
+
+Results:
+    Total Value: 2389.20
+    Items:
+         QHFXR 15.1 15.5
+         LVGFT 79.9 0.3
+         TIODI 212.2 15.6
+         WHYGJ 23.9 19.1
+         RPYNE 16.2 21.4
+         VGNBC 53.6 5.2
+         QCRHU 40.7 17.3
+         AINNG 194.2 9.8
+         EQOIF 15.3 13.9
+         AMSZR 116.6 12.9
+         MZKAN 155.8 7.7
+         KJVPL 30.7 20.3
+         DPAOW 185.2 19.4
+         AZKMK 153.7 1.2
+         YQQXT 122.7 8.3
+         KCCHB 173.9 16.4
+         PJRRC 120.8 16.1
+         CTZPG 59.6 8.9
+         HGFSB 118.9 14.2
+         LFXCN 108.0 12.4
+         XWRLZ 206.9 1.0
+         QAPGQ 185.3 9.5
+
+Time Taken: 2.474145s
+
+Test with 23 inputs:
+
+Results:
+    Total Value: 2702.20
+    Items:
+         QSIPD 64.3 6.4
+         XHCVD 119.1 4.8
+         QBBHL 221.0 22.2
+         EUKWJ 204.3 10.6
+         XOHDN 23.8 17.4
+         PEJYQ 45.9 22.1
+         FXDUW 60.6 12.1
+         RWHTZ 54.3 6.6
+         ZFIBY 206.4 20.9
+         FYMTM 53.4 2.0
+         VOARO 27.8 19.9
+         DDVYL 1.0 15.0
+         MSSSK 158.1 18.9
+         JQAEV 167.9 17.8
+         MBVQS 134.3 20.7
+         DMKFE 208.6 9.6
+         ZGVNO 67.9 10.4
+         GYFOD 189.3 2.8
+         FIQXL 108.5 19.1
+         DNDNW 222.0 5.9
+         LRCJI 143.7 21.3
+         SVONC 150.3 14.2
+         XPGOU 69.7 0.3
+
+Time Taken: 4.850610s
+
+Test with 24 inputs:
+
+Results:
+    Total Value: 2744.60
+    Items:
+         UIIRW 104.9 8.8
+         PUTOW 111.6 22.7
+         LCPTN 164.4 15.6
+         AILEH 14.5 4.6
+         XUIQO 206.2 6.1
+         OAOER 89.8 7.8
+         WFEYY 54.3 21.4
+         ZYJIE 180.9 8.9
+         SHDOV 28.9 14.9
+         KDBAA 211.0 8.4
+         SJXBP 46.4 15.1
+         TEGND 38.4 7.4
+         SXOFA 236.3 8.9
+         WXVUX 85.1 23.7
+         HSUDH 182.0 12.6
+         XDHRA 102.7 19.5
+         QMECX 37.2 1.4
+         DGPMY 172.4 17.2
+         TTVBP 67.3 20.1
+         DKXUX 144.0 2.5
+         VETZE 48.2 5.4
+         FAJCU 75.9 23.2
+         XDXNV 179.8 10.3
+         JVBWC 162.4 6.5
+
+Time Taken: 9.490142s
+
+Test with 25 inputs:
+
+Results:
+    Total Value: 3772.40
+    Items:
+         FAUSS 87.1 17.6
+         JLQYE 144.9 14.3
+         YCIKW 248.4 9.6
+         KGKQU 182.1 9.3
+         DZAWE 130.4 11.6
+         GVIBU 168.2 10.6
+         FEKET 246.9 3.7
+         KTJGL 145.2 3.6
+         KUVBD 164.6 12.2
+         WXUER 83.9 11.2
+         KVBTW 192.3 2.8
+         PSGRU 173.8 24.3
+         RUFHK 116.3 21.1
+         SHCDK 230.7 12.2
+         ZWBCV 113.5 16.4
+         HDVQS 219.3 15.1
+         ISIOA 170.2 8.0
+         EZAYR 148.8 1.2
+         VFKVO 103.6 8.2
+         USXOI 116.3 11.6
+         QBMJD 127.0 8.3
+         GVRYS 42.5 22.3
+         QRLQK 133.5 16.2
+         CNRPC 133.7 2.4
+         XSCHW 149.2 5.2
+
+Time Taken: 18.970908s
+
+Test with 26 inputs:
+
+Results:
+    Total Value: 3043.00
+    Items:
+         HAMEK 13.0 0.2
+         UWGSW 17.4 17.9
+         MMSRI 244.1 17.5
+         PYVWH 65.9 0.4
+         PIHLE 30.3 23.7
+         YWINW 258.5 8.7
+         YDYRJ 80.0 15.5
+         KGLBZ 26.9 14.1
+         NTQCV 168.5 20.9
+         GBHNJ 40.0 14.4
+         CWOBW 243.7 24.8
+         DFLVV 138.2 5.9
+         JGYWP 167.5 13.9
+         ILYYV 38.8 12.6
+         DJGWF 254.8 23.5
+         BXDSS 197.5 18.0
+         NEXWZ 118.8 4.8
+         KSNQQ 52.0 22.7
+         TYSBM 2.4 13.5
+         ORMES 150.3 17.0
+         WNDDK 156.5 12.0
+         LNQDR 96.4 15.0
+         JFZMA 73.6 4.1
+         QMHGL 228.9 18.7
+         DKZON 98.7 9.0
+         QRJGL 80.3 14.8
+
+Time Taken: 37.432211s
+
+Test with 27 inputs:
+
+Results:
+    Total Value: 3893.20
+    Items:
+         INISQ 59.3 19.1
+         MQZCQ 116.8 0.9
+         TPQQM 242.3 20.4
+         KPEWS 269.1 18.5
+         PHSNM 72.7 17.4
+         YNKHZ 0.1 14.0
+         USTVJ 249.1 14.4
+         RNVQU 169.6 24.7
+         CUXSI 118.3 22.8
+         MSKKT 21.8 1.3
+         JCLQF 182.5 23.0
+         BSKXN 70.9 21.0
+         DUGJZ 150.7 15.7
+         MJBYL 182.4 1.8
+         MAJKX 174.6 17.3
+         UIBHX 123.9 23.5
+         ZJREQ 71.2 12.7
+         YCABM 189.2 13.4
+         RLYTC 127.3 21.2
+         MEVRB 198.9 3.7
+         ZEBVF 251.7 15.5
+         JMKGI 246.6 15.7
+         FNYQJ 103.3 23.7
+         KODGZ 238.0 20.2
+         FOBMQ 3.0 0.4
+         MSMOY 28.1 4.5
+         ASERL 231.8 15.3
+
+Time Taken: 73.715201s
+
+Test with 28 inputs:
+
+Results:
+    Total Value: 4051.50
+    Items:
+         AUPWE 18.9 22.9
+         NIFVT 248.5 11.9
+         WEWDX 94.7 23.2
+         SPXKB 60.5 21.7
+         EYLMG 177.4 12.6
+         ZJTYZ 132.5 19.9
+         WBZYK 56.7 26.6
+         XSQHO 86.9 23.4
+         ZFJDE 209.0 13.3
+         HYLCI 165.6 16.9
+         VPILC 127.4 21.1
+         KFFFG 182.2 19.9
+         IMARQ 277.6 13.7
+         EGRJD 192.8 7.1
+         MFZIW 269.8 1.5
+         LYWVQ 73.6 0.7
+         HHWHC 197.5 26.6
+         LFEVH 215.4 22.8
+         FIHLT 139.6 4.8
+         JKMXZ 248.3 21.9
+         WVCFC 139.6 0.7
+         VRETV 54.2 26.2
+         DHMMX 108.2 26.9
+         VBOYJ 92.2 26.9
+         EMRLE 137.6 9.5
+         OUPRM 67.2 10.9
+         SUVQQ 114.7 2.8
+         VSLWP 162.9 27.5
+
+Time Taken: 154.229107s
+
+Test with 29 inputs:
+
+Results:
+    Total Value: 3638.90
+    Items:
+         QYOEM 210.5 8.1
+         YNAEW 75.1 24.5
+         DNNWS 183.2 17.7
+         HQJZO 173.3 26.0
+         RGZAG 71.9 17.6
+         PRIDC 159.9 13.8
+         MENEQ 157.2 19.1
+         YWCDB 78.2 16.4
+         DZCIZ 196.5 20.8
+         USYYD 120.8 20.5
+         MWVSL 194.3 0.7
+         KVHTX 61.5 3.0
+         WTPPU 40.0 6.1
+         SDTTE 64.1 6.3
+         CJKGI 54.7 27.0
+         GGSXS 193.8 4.6
+         IIVNB 182.8 24.8
+         IVMDD 53.8 22.6
+         NGAKF 253.7 8.6
+         EGGFB 3.6 27.3
+         JZQOQ 113.8 28.8
+         WZRGJ 43.0 16.0
+         WBAEG 64.8 6.0
+         UROMG 107.8 26.0
+         JEOYI 26.6 24.3
+         MKDVA 98.7 16.8
+         WRKGJ 260.8 12.9
+         HEXHX 119.4 26.7
+         JEFUV 275.1 24.1
+
+Time Taken: 306.720286s
+
+Test with 30 inputs:
+
+Results:
+    Total Value: 5181.20
+    Items:
+         BXYCV 143.8 0.3
+         TGAZY 236.9 18.1
+         KNVYW 255.8 25.7
+         IWDRO 67.3 13.4
+         AREMB 239.8 1.6
+         GXKKH 257.2 3.0
+         AWBRM 57.2 22.9
+         LSCBH 161.9 13.7
+         XKWVO 295.2 18.2
+         APDVE 136.0 6.6
+         OSAAC 221.7 0.5
+         BGERZ 211.0 23.9
+         NJEIC 295.3 29.1
+         AQSQJ 75.6 24.8
+         IHDBS 219.2 12.4
+         BUNPQ 181.0 27.2
+         DCPSI 213.6 17.1
+         VGEES 95.6 28.6
+         MFRNB 247.0 9.1
+         MXNEQ 145.0 11.8
+         FZUQT 93.7 19.1
+         ICYMH 258.4 12.1
+         AYQIW 146.8 1.9
+         IUDSP 65.3 2.0
+         DVNOY 254.7 2.7
+         SIAUC 227.0 8.9
+         ZZCEV 49.8 28.1
+         WQORI 110.7 19.0
+         ZYQMC 87.3 28.1
+         SIHAY 131.4 29.2
+
+Time Taken: 610.948601s
+
+Test with 31 inputs:
+
+Results:
+    Total Value: 4917.30
+    Items:
+         TLFZC 15.4 7.8
+         UINIS 88.9 8.4
+         XUFNS 102.9 24.1
+         GOMMH 260.1 12.6
+         RUKIU 44.3 13.7
+         IHAPL 183.9 6.5
+         YNFMD 286.7 25.5
+         NFCBI 230.1 3.8
+         MIMQP 176.3 5.4
+         TIHSF 157.2 21.1
+         OFBJW 220.7 7.5
+         RDSBB 132.5 2.2
+         GLUXH 256.6 23.4
+         QBPAB 170.0 6.1
+         HCFLC 194.0 20.3
+         QAKHD 117.1 13.4
+         SWETF 108.9 19.6
+         UBHMC 160.0 10.4
+         MHJNJ 95.5 30.7
+         DSLHX 152.0 16.6
+         EGTCF 111.5 9.0
+         UJPKC 159.6 28.5
+         BLIFC 170.0 24.3
+         KLETX 153.6 10.4
+         EQSIZ 100.8 1.3
+         UANAH 209.4 27.0
+         FKPKH 211.4 14.9
+         RYRDH 40.5 23.8
+         SWABU 141.1 26.5
+         WVBRH 232.3 24.9
+         QLFHS 234.0 6.1
+
+Time Taken: 1193.307045s
