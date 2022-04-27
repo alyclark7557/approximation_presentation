@@ -6,7 +6,7 @@ Approximation Presentation: Aly
 
 Approximation Code: Mike
 
-Exact Code: John
+Exact Code: Jonny
 
 Max Knapsack - Given a list of items with weights and values, we want to take the items that will give us the most valuable knapsack without exceeding the
 weight limit. 
