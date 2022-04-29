@@ -4,7 +4,7 @@ import sys
 
 def create_input_file(n, fn):
     letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    w = str(round(random.random() * n * 2, 1))
+    w = str(round(random.random() * n * 2 + .1, 1))
     #w = str(sys.maxsize)
     num = str(n)
     try:
@@ -19,7 +19,7 @@ def create_input_file(n, fn):
         for _ in range(5):
             item_name += letters[int(random.random() * 26)]
         item_value = str(round(random.random() * n * 10, 1))
-        item_weight = str(round(random.random() * n, 1))
+        item_weight = str(round(random.random() * n + .1, 1))
         f.write(item_name + " " + item_value + " " + item_weight + "\n")
     f.close()
 
