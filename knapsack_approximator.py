@@ -2,20 +2,20 @@
 import sys
 import time
 def Knapsack_approximation(sack, weight):
- print("just show that I am running") 
  # sort the sack
  # add items to the list until i am out of available weight
  sack.sort(key=lambda x: x[1] / x[2], reverse=True) 
- print(sack)   
  ret_value = []
  keep_going = True
  index = 0
  weight_remaining = weight
  while (weight_remaining > 0 and index < len(sack)):
+
      if sack[index][2] <= weight_remaining:
          ret_value.append(sack[index])
-         index = index + 1
          weight_remaining -= sack[index][2]
+    
+     index = index + 1
  return ret_value
 def main():
 
@@ -45,7 +45,6 @@ def main():
   items_chosen = Knapsack_approximation(items,w)
   end = time.time()
   total_value = 0
-  print(items_chosen)
   print("Results:")
   print("    Items:")
   for i in items_chosen:
