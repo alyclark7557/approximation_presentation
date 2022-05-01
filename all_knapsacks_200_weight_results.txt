@@ -1,0 +1,2380 @@
+
+============================
+Test with 3 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 478.80
+    Items:
+         FMUHD 209.5 42.8
+         LQHNV 11.3 46.2
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000010s
+
+Approximate Knapsack:
+Results:
+    Items:
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         LQHNV 11.3 46.2
+
+Time taken: 0.000007s
+    Total Value: 478.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 478.80
+    Items:
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         LQHNV 11.3 46.2
+
+Time Taken: 0.000006s
+
+============================
+Test with 4 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 575.80
+    Items:
+         ARARS 97.0 46.4
+         FMUHD 209.5 42.8
+         LQHNV 11.3 46.2
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000015s
+
+Approximate Knapsack:
+Results:
+    Items:
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+         LQHNV 11.3 46.2
+
+Time taken: 0.000008s
+    Total Value: 575.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 575.80
+    Items:
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+         LQHNV 11.3 46.2
+
+Time Taken: 0.000007s
+
+============================
+Test with 5 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 842.70
+    Items:
+         XJPYR 278.2 46.6
+         ARARS 97.0 46.4
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000025s
+
+Approximate Knapsack:
+Results:
+    Items:
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+
+Time taken: 0.000008s
+    Total Value: 842.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 846.90
+    Items:
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+         LQHNV 4.2 17.2
+
+Time Taken: 0.000024s
+
+============================
+Test with 6 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 842.70
+    Items:
+         XJPYR 278.2 46.6
+         ARARS 97.0 46.4
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000048s
+
+Approximate Knapsack:
+Results:
+    Items:
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+
+Time taken: 0.000011s
+    Total Value: 842.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 854.50
+    Items:
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+         HSOPS 11.8 17.2
+
+Time Taken: 0.000023s
+
+============================
+Test with 7 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 1224.00
+    Items:
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         ARARS 97.0 46.4
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000078s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+
+Time taken: 0.000008s
+    Total Value: 1224.00
+
+Fractional Knapsack:
+Results:
+    Total Value: 1232.10
+    Items:
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+         HSOPS 8.1 11.8
+
+Time Taken: 0.000024s
+
+============================
+Test with 8 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 1579.30
+    Items:
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         ARARS 97.0 46.4
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000146s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+
+Time taken: 0.000009s
+    Total Value: 1579.30
+
+Fractional Knapsack:
+Results:
+    Total Value: 1583.20
+    Items:
+         UUASK 381.3 5.4
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 97.0 46.4
+         HSOPS 3.9 5.7
+
+Time Taken: 0.000024s
+
+============================
+Test with 9 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 1753.20
+    Items:
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000288s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+
+Time taken: 0.000009s
+    Total Value: 1753.20
+
+Fractional Knapsack:
+Results:
+    Total Value: 1761.60
+    Items:
+         UUASK 381.3 5.4
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 8.4 4.0
+
+Time Taken: 0.000026s
+
+============================
+Test with 10 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 1931.40
+    Items:
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000501s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+
+Time taken: 0.000010s
+    Total Value: 1931.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 1933.70
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         ARARS 2.3 1.1
+
+Time Taken: 0.000024s
+
+============================
+Test with 11 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 1931.40
+    Items:
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         FMUHD 209.5 42.8
+         CGIHQ 258.0 47.0
+
+Time Taken: 0.000937s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+
+Time taken: 0.000010s
+    Total Value: 1931.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 1936.20
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 209.5 42.8
+         AQIWR 4.8 1.1
+
+Time Taken: 0.000026s
+
+============================
+Test with 12 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2128.70
+    Items:
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+         FMUHD 209.5 42.8
+
+Time Taken: 0.001707s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+
+Time taken: 0.000015s
+    Total Value: 2121.20
+
+Fractional Knapsack:
+Results:
+    Total Value: 2163.80
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 258.0 47.0
+         FMUHD 42.6 8.7
+
+Time Taken: 0.000025s
+
+============================
+Test with 13 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2165.70
+    Items:
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.003234s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         AQIWR 56.0 12.8
+
+Time taken: 0.000010s
+    Total Value: 2165.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 2228.80
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 119.1 21.7
+
+Time Taken: 0.000025s
+
+============================
+Test with 14 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2165.70
+    Items:
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.005790s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         AQIWR 56.0 12.8
+
+Time taken: 0.000010s
+    Total Value: 2165.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 2228.80
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 119.1 21.7
+
+Time Taken: 0.000026s
+
+============================
+Test with 15 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2165.70
+    Items:
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.008598s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         AQIWR 56.0 12.8
+
+Time taken: 0.000011s
+    Total Value: 2165.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 2228.80
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 270.9 48.1
+         CGIHQ 119.1 21.7
+
+Time Taken: 0.000028s
+
+============================
+Test with 16 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2193.80
+    Items:
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.014729s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         AQIWR 56.0 12.8
+
+Time taken: 0.000010s
+    Total Value: 2169.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 2311.60
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 198.2 35.2
+
+Time Taken: 0.000025s
+
+============================
+Test with 17 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2510.90
+    Items:
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         UPXZS 270.9 48.1
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.022084s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         AQIWR 56.0 12.8
+
+Time taken: 0.000012s
+    Total Value: 2486.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 2599.50
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 169.0 30.0
+
+Time Taken: 0.000030s
+
+============================
+Test with 18 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2650.70
+    Items:
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.036619s
+
+Approximate Knapsack:
+Results:
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+
+Time taken: 0.000011s
+    Total Value: 2650.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 2673.80
+    Items:
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 23.1 4.1
+
+Time Taken: 0.000028s
+
+============================
+Test with 19 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2812.90
+    Items:
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.059929s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+
+Time taken: 0.000012s
+    Total Value: 2812.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 2825.30
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 12.4 2.2
+
+Time Taken: 0.000027s
+
+============================
+Test with 20 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2812.90
+    Items:
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.104303s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+
+Time taken: 0.000012s
+    Total Value: 2812.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 2825.30
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 12.4 2.2
+
+Time Taken: 0.000027s
+
+============================
+Test with 21 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2815.80
+    Items:
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.163332s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+
+Time taken: 0.000015s
+    Total Value: 2815.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 2826.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 10.7 1.9
+
+Time Taken: 0.000030s
+
+============================
+Test with 22 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2815.80
+    Items:
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.281664s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+
+Time taken: 0.000013s
+    Total Value: 2815.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 2826.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         XJPYR 278.2 46.6
+         UPXZS 10.7 1.9
+
+Time Taken: 0.000032s
+
+============================
+Test with 23 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2815.80
+    Items:
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.450634s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         AQIWR 56.0 12.8
+
+Time taken: 0.000013s
+    Total Value: 2800.20
+
+Fractional Knapsack:
+Results:
+    Total Value: 2847.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         XJPYR 103.3 17.3
+
+Time Taken: 0.000033s
+
+============================
+Test with 24 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2815.80
+    Items:
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 0.709693s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         AQIWR 56.0 12.8
+
+Time taken: 0.000013s
+    Total Value: 2800.20
+
+Fractional Knapsack:
+Results:
+    Total Value: 2847.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         XJPYR 103.3 17.3
+
+Time Taken: 0.000028s
+
+============================
+Test with 25 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2815.80
+    Items:
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 1.006562s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000016s
+    Total Value: 2776.60
+
+Fractional Knapsack:
+Results:
+    Total Value: 2847.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         XJPYR 103.3 17.3
+
+Time Taken: 0.000028s
+
+============================
+Test with 26 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 2815.80
+    Items:
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+         XJPYR 278.2 46.6
+
+Time Taken: 1.565075s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000013s
+    Total Value: 2776.60
+
+Fractional Knapsack:
+Results:
+    Total Value: 2847.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         XJPYR 103.3 17.3
+
+Time Taken: 0.000027s
+
+============================
+Test with 27 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3170.30
+    Items:
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         NXWVN 206.6 31.2
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 2.334511s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000014s
+    Total Value: 3170.30
+
+Fractional Knapsack:
+Results:
+    Total Value: 3196.40
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 206.6 31.2
+         XJPYR 58.5 9.8
+
+Time Taken: 0.000027s
+
+============================
+Test with 28 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3284.90
+    Items:
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 3.775640s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000014s
+    Total Value: 3261.30
+
+Fractional Knapsack:
+Results:
+    Total Value: 3317.00
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         NXWVN 88.1 13.3
+
+Time Taken: 0.000027s
+
+============================
+Test with 29 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3311.00
+    Items:
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 5.749604s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         CRSTJ 32.4 6.4
+         AQIWR 56.0 12.8
+
+Time taken: 0.000015s
+    Total Value: 3284.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 3401.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 205.2 28.3
+
+Time Taken: 0.000028s
+
+============================
+Test with 30 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3311.00
+    Items:
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         AEQWV 246.5 34.0
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 8.820384s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000014s
+    Total Value: 3275.20
+
+Fractional Knapsack:
+Results:
+    Total Value: 3401.50
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 205.2 28.3
+
+Time Taken: 0.000030s
+
+============================
+Test with 31 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3413.90
+    Items:
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 14.020346s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000015s
+    Total Value: 3404.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 3469.80
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IVXOT 274.6 34.6
+         AEQWV 144.3 19.9
+
+Time Taken: 0.000028s
+
+============================
+Test with 32 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3433.90
+    Items:
+         IORUP 282.1 34.7
+         JLTYZ 129.2 8.4
+         MWWRJ 46.5 10.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 23.122838s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000015s
+    Total Value: 3411.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 3490.10
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         IVXOT 157.1 19.8
+
+Time Taken: 0.000032s
+
+============================
+Test with 33 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3433.90
+    Items:
+         IORUP 282.1 34.7
+         JLTYZ 129.2 8.4
+         MWWRJ 46.5 10.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 36.321150s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000015s
+    Total Value: 3411.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 3490.10
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         IVXOT 157.1 19.8
+
+Time Taken: 0.000031s
+
+============================
+Test with 34 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3433.90
+    Items:
+         IORUP 282.1 34.7
+         JLTYZ 129.2 8.4
+         MWWRJ 46.5 10.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 51.603293s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000016s
+    Total Value: 3411.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 3490.10
+    Items:
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         IVXOT 157.1 19.8
+
+Time Taken: 0.000031s
+
+============================
+Test with 35 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3734.80
+    Items:
+         ZSUYU 315.0 2.0
+         IORUP 282.1 34.7
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         IVXOT 274.6 34.6
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 69.206458s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000016s
+    Total Value: 3726.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 3789.30
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         AWFHU 220.2 25.9
+         IORUP 282.1 34.7
+         IVXOT 141.3 17.8
+
+Time Taken: 0.000031s
+
+============================
+Test with 36 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3796.40
+    Items:
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         IORUP 282.1 34.7
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 103.593328s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000016s
+    Total Value: 3734.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 3828.90
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         IORUP 126.8 15.6
+
+Time Taken: 0.000033s
+
+============================
+Test with 37 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 3796.40
+    Items:
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         IORUP 282.1 34.7
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 148.124170s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000017s
+    Total Value: 3734.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 3828.90
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         IORUP 126.8 15.6
+
+Time Taken: 0.000029s
+
+============================
+Test with 38 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 4082.40
+    Items:
+         JKQJV 347.9 8.9
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 208.987934s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000016s
+    Total Value: 4082.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 4104.50
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         IORUP 54.5 6.7
+
+Time Taken: 0.000030s
+
+============================
+Test with 39 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 4082.40
+    Items:
+         JKQJV 347.9 8.9
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 315.723057s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000023s
+    Total Value: 4082.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 4104.50
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         IORUP 54.5 6.7
+
+Time Taken: 0.000031s
+
+============================
+Test with 40 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 4082.40
+    Items:
+         JKQJV 347.9 8.9
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 475.593058s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000018s
+    Total Value: 4082.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 4104.50
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 220.2 25.9
+         IORUP 54.5 6.7
+
+Time Taken: 0.000033s
+
+============================
+Test with 41 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 4173.90
+    Items:
+         ZZLYH 253.1 14.3
+         JKQJV 347.9 8.9
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         AWFHU 220.2 25.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 665.108136s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         ZZLYH 253.1 14.3
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         CRSTJ 32.4 6.4
+         MWWRJ 46.5 10.4
+
+Time taken: 0.000019s
+    Total Value: 4161.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 4238.50
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         ZZLYH 253.1 14.3
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 155.6 18.3
+
+Time Taken: 0.000032s
+
+============================
+Test with 42 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 4333.90
+    Items:
+         ETGSL 195.0 3.6
+         ZZLYH 253.1 14.3
+         JKQJV 347.9 8.9
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         AQIWR 56.0 12.8
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 965.156957s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         ETGSL 195.0 3.6
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         ZZLYH 253.1 14.3
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000023s
+    Total Value: 4310.30
+
+Fractional Knapsack:
+Results:
+    Total Value: 4402.90
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         ETGSL 195.0 3.6
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         ZZLYH 253.1 14.3
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 125.0 14.7
+
+Time Taken: 0.000034s
+
+============================
+Test with 43 inputs 200 weight results:
+============================
+
+Exact Knapsack:
+Results:
+    Total Value: 4574.60
+    Items:
+         JQGUT 264.3 7.1
+         ETGSL 195.0 3.6
+         ZZLYH 253.1 14.3
+         JKQJV 347.9 8.9
+         OOOTO 336.2 36.9
+         ZSUYU 315.0 2.0
+         JLTYZ 129.2 8.4
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         LDALT 393.7 7.5
+         CRSTJ 32.4 6.4
+         GQSHN 2.9 0.3
+         ECMAU 162.2 1.9
+         YDMDM 317.1 5.2
+         EBSOC 399.3 35.2
+         ZNUJW 178.2 2.9
+         XIBUH 355.3 6.1
+         UUASK 381.3 5.4
+
+Time Taken: 1454.780017s
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         ETGSL 195.0 3.6
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JQGUT 264.3 7.1
+         ZZLYH 253.1 14.3
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         CRSTJ 32.4 6.4
+
+Time taken: 0.000019s
+    Total Value: 4574.60
+
+Fractional Knapsack:
+Results:
+    Total Value: 4606.80
+    Items:
+         ZSUYU 315.0 2.0
+         ECMAU 162.2 1.9
+         UUASK 381.3 5.4
+         ZNUJW 178.2 2.9
+         YDMDM 317.1 5.2
+         XIBUH 355.3 6.1
+         ETGSL 195.0 3.6
+         LDALT 393.7 7.5
+         JKQJV 347.9 8.9
+         JQGUT 264.3 7.1
+         ZZLYH 253.1 14.3
+         JLTYZ 129.2 8.4
+         EBSOC 399.3 35.2
+         VLYUJ 213.9 19.0
+         OTCSU 297.6 27.7
+         GQSHN 2.9 0.3
+         OOOTO 336.2 36.9
+         AWFHU 64.6 7.6
+
+Time Taken: 0.000032s
