@@ -1,0 +1,766 @@
+
+============================
+Test with 3 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         AHLFQ 24.1 2.2
+
+Time taken: 0.000007s
+    Total Value: 24.10
+
+Fractional Knapsack:
+Results:
+    Total Value: 30.50
+    Items:
+         AHLFQ 24.1 2.2
+         LXPDR 6.4 1.1
+
+Time Taken: 0.000023s
+
+============================
+Test with 4 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZBKJH 35.0 0.7
+
+Time taken: 0.000007s
+    Total Value: 35.00
+
+Fractional Knapsack:
+Results:
+    Total Value: 45.70
+    Items:
+         ZBKJH 35.0 0.7
+         EPLDN 10.7 0.5
+
+Time Taken: 0.000029s
+
+============================
+Test with 5 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         GQECA 16.2 0.9
+
+Time taken: 0.000008s
+    Total Value: 16.20
+
+Fractional Knapsack:
+Results:
+    Total Value: 32.40
+    Items:
+         EOAUZ 32.4 1.1
+
+Time Taken: 0.000026s
+
+============================
+Test with 6 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         BPAGL 34.8 2.0
+
+Time taken: 0.000009s
+    Total Value: 34.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 62.40
+    Items:
+         BPAGL 34.8 2.0
+         YVSTS 27.6 2.4
+
+Time Taken: 0.000025s
+
+============================
+Test with 7 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         DSCJC 33.6 1.1
+         HBGEF 26.2 1.3
+
+Time taken: 0.000009s
+    Total Value: 59.80
+
+Fractional Knapsack:
+Results:
+    Total Value: 67.80
+    Items:
+         DSCJC 33.6 1.1
+         RMEVJ 34.2 1.6
+
+Time Taken: 0.000026s
+
+============================
+Test with 8 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         KYVUD 61.3 1.6
+         DBDBE 31.0 2.0
+
+Time taken: 0.000008s
+    Total Value: 92.30
+
+Fractional Knapsack:
+Results:
+    Total Value: 121.60
+    Items:
+         KYVUD 61.3 1.6
+         DBDBE 31.0 2.0
+         AHTXG 29.3 2.3
+
+Time Taken: 0.000026s
+
+============================
+Test with 9 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         LPFHT 81.1 0.2
+         VYAXC 1.3 1.5
+
+Time taken: 0.000009s
+    Total Value: 82.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 107.10
+    Items:
+         LPFHT 81.1 0.2
+         QTSNH 26.0 2.2
+
+Time Taken: 0.000025s
+
+============================
+Test with 10 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         EPZNT 98.8 2.3
+         JMHEV 74.8 3.5
+         GRIKL 82.9 4.5
+
+Time taken: 0.000008s
+    Total Value: 256.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 265.50
+    Items:
+         EPZNT 98.8 2.3
+         JMHEV 74.8 3.5
+         GRIKL 82.9 4.5
+         VHAUH 9.0 0.6
+
+Time Taken: 0.000025s
+
+============================
+Test with 11 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         RXRAH 26.7 0.8
+         DTNYL 58.7 2.4
+
+Time taken: 0.000010s
+    Total Value: 85.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 134.20
+    Items:
+         RXRAH 26.7 0.8
+         DTNYL 58.7 2.4
+         QLOOP 48.8 3.5
+
+Time Taken: 0.000025s
+
+============================
+Test with 12 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         CQHSW 111.3 2.1
+         EPHFH 76.7 1.8
+         TXNNV 20.4 1.4
+
+Time taken: 0.000009s
+    Total Value: 208.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 250.00
+    Items:
+         CQHSW 111.3 2.1
+         EPHFH 76.7 1.8
+         QTMOG 62.0 1.7
+
+Time Taken: 0.000026s
+
+============================
+Test with 13 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         GAGFS 120.2 0.3
+         OMASA 118.6 0.3
+         MGAXW 45.9 0.4
+         XJCMK 60.9 1.8
+         RWDBX 107.6 5.2
+         ASUPR 111.0 6.1
+         ODQZD 98.7 5.5
+         YUUST 15.2 1.0
+
+Time taken: 0.000010s
+    Total Value: 678.10
+
+Fractional Knapsack:
+Results:
+    Total Value: 737.60
+    Items:
+         GAGFS 120.2 0.3
+         OMASA 118.6 0.3
+         MGAXW 45.9 0.4
+         XJCMK 60.9 1.8
+         RWDBX 107.6 5.2
+         ASUPR 111.0 6.1
+         ODQZD 98.7 5.5
+         YUUST 15.2 1.0
+         OASQC 59.5 4.5
+
+Time Taken: 0.000027s
+
+============================
+Test with 14 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         ZAWJD 139.6 2.2
+
+Time taken: 0.000010s
+    Total Value: 139.60
+
+Fractional Knapsack:
+Results:
+    Total Value: 244.30
+    Items:
+         ZAWJD 139.6 2.2
+         AHHBZ 104.7 1.9
+
+Time Taken: 0.000025s
+
+============================
+Test with 15 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+
+Time taken: 0.000009s
+    Total Value: 0.00
+
+Fractional Knapsack:
+Results:
+    Total Value: 85.10
+    Items:
+         XEJLP 85.1 0.4
+
+Time Taken: 0.000027s
+
+============================
+Test with 16 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         ILCRS 135.9 0.1
+         YNQYX 109.6 2.5
+         NUDAI 21.6 1.6
+
+Time taken: 0.000010s
+    Total Value: 267.10
+
+Fractional Knapsack:
+Results:
+    Total Value: 289.90
+    Items:
+         ILCRS 135.9 0.1
+         YNQYX 109.6 2.5
+         QIJCW 44.4 2.1
+
+Time Taken: 0.000030s
+
+============================
+Test with 17 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         TMISG 156.9 0.3
+
+Time taken: 0.000015s
+    Total Value: 156.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 167.10
+    Items:
+         TMISG 156.9 0.3
+         UGVRG 10.2 0.1
+
+Time Taken: 0.000074s
+
+============================
+Test with 18 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         WSFWG 92.9 4.3
+         AGNHF 85.4 4.9
+         FLQUI 63.7 4.2
+         SMVDJ 4.3 2.1
+
+Time taken: 0.000012s
+    Total Value: 246.30
+
+Fractional Knapsack:
+Results:
+    Total Value: 298.50
+    Items:
+         WSFWG 92.9 4.3
+         AGNHF 85.4 4.9
+         EMRMH 120.2 7.1
+
+Time Taken: 0.000027s
+
+============================
+Test with 19 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         KRPRL 65.8 1.7
+         WCMKE 183.0 7.9
+         EOOHZ 152.4 6.7
+         BRALZ 135.8 6.1
+
+Time taken: 0.000010s
+    Total Value: 537.00
+
+Fractional Knapsack:
+Results:
+    Total Value: 565.20
+    Items:
+         KRPRL 65.8 1.7
+         WCMKE 183.0 7.9
+         EOOHZ 152.4 6.7
+         BRALZ 135.8 6.1
+         OMVZZ 28.2 1.3
+
+Time Taken: 0.000029s
+
+============================
+Test with 20 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         BVYUP 55.3 0.9
+         NKDRK 189.7 7.1
+         IRXKN 104.7 4.2
+         CASKK 126.9 5.7
+         HWXLU 62.1 3.1
+         XZXIL 80.2 4.7
+
+Time taken: 0.000012s
+    Total Value: 618.90
+
+Fractional Knapsack:
+Results:
+    Total Value: 649.70
+    Items:
+         BVYUP 55.3 0.9
+         NKDRK 189.7 7.1
+         IRXKN 104.7 4.2
+         CASKK 126.9 5.7
+         HWXLU 62.1 3.1
+         IWVSO 111.0 5.8
+
+Time Taken: 0.000037s
+
+============================
+Test with 21 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         PKNCQ 173.0 0.9
+         IXHCI 174.1 2.2
+         MARPH 90.0 1.6
+         IXPOO 163.7 4.5
+         KBKMG 110.7 3.3
+
+Time taken: 0.000012s
+    Total Value: 711.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 776.60
+    Items:
+         PKNCQ 173.0 0.9
+         IXHCI 174.1 2.2
+         MARPH 90.0 1.6
+         IXPOO 163.7 4.5
+         KBKMG 110.7 3.3
+         NQTIB 65.1 2.0
+
+Time Taken: 0.000027s
+
+============================
+Test with 22 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         VPJQV 76.9 0.3
+         UDWMX 124.2 0.7
+         YEKCZ 33.8 0.3
+         XCYRZ 76.7 1.1
+         LFRVU 74.9 1.2
+         UNGIP 214.3 3.9
+         GXOQC 185.6 3.4
+         OIUYC 145.4 2.8
+         SXENT 147.9 4.2
+
+Time taken: 0.000013s
+    Total Value: 1079.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 1086.40
+    Items:
+         VPJQV 76.9 0.3
+         UDWMX 124.2 0.7
+         YEKCZ 33.8 0.3
+         XCYRZ 76.7 1.1
+         LFRVU 74.9 1.2
+         UNGIP 214.3 3.9
+         GXOQC 185.6 3.4
+         OIUYC 145.4 2.8
+         SXENT 147.9 4.2
+         VDRZT 6.7 0.3
+
+Time Taken: 0.000029s
+
+============================
+Test with 23 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         HCUWJ 210.9 1.6
+         KJZLD 126.6 4.7
+
+Time taken: 0.000013s
+    Total Value: 337.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 414.60
+    Items:
+         HCUWJ 210.9 1.6
+         KJZLD 126.6 4.7
+         DYCPB 77.1 3.4
+
+Time Taken: 0.000030s
+
+============================
+Test with 24 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         VIJIU 43.7 0.2
+         KXTCX 173.7 0.8
+         YEKQM 104.0 0.7
+         AQZRL 155.6 4.0
+         GPHHA 160.4 5.1
+         IFIWT 124.5 6.4
+         UDPMJ 165.4 9.0
+         FIFRL 195.7 11.9
+         VTTRB 27.5 1.7
+
+Time taken: 0.000014s
+    Total Value: 1150.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 1238.40
+    Items:
+         VIJIU 43.7 0.2
+         KXTCX 173.7 0.8
+         YEKQM 104.0 0.7
+         AQZRL 155.6 4.0
+         GPHHA 160.4 5.1
+         IFIWT 124.5 6.4
+         UDPMJ 165.4 9.0
+         FIFRL 195.7 11.9
+         VTTRB 27.5 1.7
+         BVQOC 87.9 8.1
+
+Time Taken: 0.000046s
+
+============================
+Test with 25 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         JWLVA 247.1 4.1
+         ZAQGK 225.1 8.3
+         OJIKH 84.9 3.4
+         TXNXI 149.3 6.7
+         SGNCC 43.0 4.4
+
+Time taken: 0.000013s
+    Total Value: 749.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 772.00
+    Items:
+         JWLVA 247.1 4.1
+         ZAQGK 225.1 8.3
+         OJIKH 84.9 3.4
+         TXNXI 149.3 6.7
+         VUACK 65.6 5.8
+
+Time Taken: 0.000030s
+
+============================
+Test with 26 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         XIHUJ 109.9 0.7
+         XNUHH 163.9 3.5
+         SFNSL 175.0 3.9
+         QHSDL 257.9 8.1
+         YKFWV 34.9 1.2
+         JQMXS 52.9 2.1
+         PMBJK 209.4 9.5
+         FLBOI 6.8 2.7
+
+Time taken: 0.000013s
+    Total Value: 1010.70
+
+Fractional Knapsack:
+Results:
+    Total Value: 1103.30
+    Items:
+         XIHUJ 109.9 0.7
+         XNUHH 163.9 3.5
+         SFNSL 175.0 3.9
+         QHSDL 257.9 8.1
+         YKFWV 34.9 1.2
+         JQMXS 52.9 2.1
+         PMBJK 209.4 9.5
+         JRBIA 99.4 5.3
+
+Time Taken: 0.000030s
+
+============================
+Test with 27 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         SDSVK 81.5 0.5
+         QDHEK 226.2 2.8
+         CMUEN 165.4 3.6
+         YMDXM 62.3 1.7
+         LCRJY 215.7 6.8
+         RXBPX 227.5 7.3
+         AYKJY 168.3 7.0
+         GKGQX 262.6 12.6
+
+Time taken: 0.000014s
+    Total Value: 1409.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 1412.50
+    Items:
+         SDSVK 81.5 0.5
+         QDHEK 226.2 2.8
+         CMUEN 165.4 3.6
+         YMDXM 62.3 1.7
+         LCRJY 215.7 6.8
+         RXBPX 227.5 7.3
+         AYKJY 168.3 7.0
+         GKGQX 262.6 12.6
+         BTXPU 3.0 0.2
+
+Time Taken: 0.000030s
+
+============================
+Test with 28 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         PEXFM 111.9 2.4
+         KKWCH 195.6 5.0
+         FHEJQ 179.6 5.5
+
+Time taken: 0.000014s
+    Total Value: 487.10
+
+Fractional Knapsack:
+Results:
+    Total Value: 513.90
+    Items:
+         PEXFM 111.9 2.4
+         KKWCH 195.6 5.0
+         FHEJQ 179.6 5.5
+         CHHQH 26.8 1.0
+
+Time Taken: 0.000031s
+
+============================
+Test with 29 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         BOFDV 215.6 2.7
+         ZJNOC 122.9 1.6
+         VUNDL 204.7 3.6
+         MYASP 168.6 3.3
+         GGJFQ 235.4 4.9
+         MLIDU 281.5 6.4
+         TZLOL 92.2 3.4
+         IUJAT 6.5 1.4
+
+Time taken: 0.000015s
+    Total Value: 1327.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 1433.30
+    Items:
+         BOFDV 215.6 2.7
+         ZJNOC 122.9 1.6
+         VUNDL 204.7 3.6
+         MYASP 168.6 3.3
+         GGJFQ 235.4 4.9
+         MLIDU 281.5 6.4
+         TZKMV 204.6 5.7
+
+Time Taken: 0.000032s
+
+============================
+Test with 30 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         JFZNT 158.0 3.0
+         DMJXH 158.0 3.2
+         PTHXI 213.6 11.6
+         DRICK 168.9 9.7
+
+Time taken: 0.000015s
+    Total Value: 698.50
+
+Fractional Knapsack:
+Results:
+    Total Value: 724.30
+    Items:
+         JFZNT 158.0 3.0
+         DMJXH 158.0 3.2
+         PTHXI 213.6 11.6
+         DRICK 168.9 9.7
+         TERRI 25.8 1.5
+
+Time Taken: 0.000028s
+
+============================
+Test with 31 inputs results:
+============================
+
+Approximate Knapsack:
+Results:
+    Items:
+         QGPPZ 264.5 0.3
+         MLWZM 98.2 0.3
+         MGPCJ 306.6 2.7
+         MGRHW 171.4 1.7
+         XGJNA 198.9 2.6
+         HECSD 187.8 2.9
+         ZURUH 291.1 7.9
+         IMEKX 25.9 4.8
+
+Time taken: 0.000015s
+    Total Value: 1544.40
+
+Fractional Knapsack:
+Results:
+    Total Value: 1683.60
+    Items:
+         QGPPZ 264.5 0.3
+         MLWZM 98.2 0.3
+         MGPCJ 306.6 2.7
+         MGRHW 171.4 1.7
+         XGJNA 198.9 2.6
+         HECSD 187.8 2.9
+         ZURUH 291.1 7.9
+         WPRHC 165.1 5.0
+
+Time Taken: 0.000036s
