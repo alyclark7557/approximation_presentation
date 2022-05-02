@@ -1,4 +1,9 @@
-# author michael leek
+# author Michael Leek
+# The approximation solution for the max knapsack problem
+# This algorithmn is greedy because it makes the greedy choice of assuming that all items in the knapsack with high value to weight ratios
+#   will be in the final solution
+
+# This program runs in nlog(n) time as the sort algorithmn takes log(n) time and then we need to iterate through every item of the sorted list
 import sys
 import time
 def Knapsack_approximation(sack, weight):
@@ -26,7 +31,6 @@ def main():
     #n lines of the format "ITEM Value Weight"
 
 
-#  print("lets approximate max knapsack!")
   # code for taking in input , use knapsack_input.py to generate a file of the appropriate format
   w = float(input())
   n = int(input())
@@ -36,12 +40,10 @@ def main():
     i[1] = float(i[1])
     i[2] = float(i[2])
     items.append(i)
-#  print(items)
 
 
 #start knapsack code
   start_time = time.time()
-#  t_val, items_n_sack = Knapsack_approximation(items,w)
   items_chosen = Knapsack_approximation(items,w)
   end = time.time()
   total_value = 0
