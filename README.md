@@ -13,3 +13,6 @@ weight limit.
 
 Input - Similar to the lab, the first input will be the max weight that we are allowed to hold. This will be followed by a number of items, n.
 Lastly, the next n lines will be formatted as item name value weight.
+
+To run all of the knapsack algorithms run ./test_all_knapsacks.sh (took about 25 minutes on my computer) or you can create a new input file by running python3 
+knapsack_input.py (name of file) (number of inputs) and then run one of the 3 knapsack algorithms giving the created input file as input using "<".
