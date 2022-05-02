@@ -9,11 +9,11 @@ do
     echo "============================"
     echo ""
     echo "Exact Knapsack:"
-    python3 exact_knapsack.py < current_test_for_weight_200_tests.txt
+    python3 exact_knapsack.py < final_test_for_weight_200_tests.txt
     echo ""
     echo "Approximate Knapsack:"
-    python3 knapsack_approximator.py < current_test_for_weight_200_tests.txt
+    python3 knapsack_approximator.py < final_test_for_weight_200_tests.txt
     echo ""
     echo "Fractional Knapsack:"
-    python3 cs412_lab7_b.py < current_test_for_weight_200_tests.txt
+    python3 cs412_lab7_b.py < final_test_for_weight_200_tests.txt
 done > final_results_200_weight_all_knapsacks.txt
