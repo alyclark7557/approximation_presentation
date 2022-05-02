@@ -10,7 +10,7 @@ do
     echo ""
     python3 knapsack_input.py test_input.txt 20
     echo "Exact Knapsack:"
-    python3 max_knapsack.py < test_input.txt
+    python3 exact_knapsack.py < test_input.txt
     echo ""
     echo "Approximate Knapsack:"
     python3 knapsack_approximator.py < test_input.txt
