@@ -9,7 +9,7 @@ do
     echo "============================"
     echo ""
     echo "Exact Knapsack:"
-    python3 max_knapsack.py < current_test_for_weight_200_tests.txt
+    python3 exact_knapsack.py < current_test_for_weight_200_tests.txt
     echo ""
     echo "Approximate Knapsack:"
     python3 knapsack_approximator.py < current_test_for_weight_200_tests.txt
